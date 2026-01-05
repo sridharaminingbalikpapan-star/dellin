@@ -24,7 +24,7 @@ body {
 /* Hero Section */
 .hero-section {
   width: 100%;
-  max-width: 250px;   /* ukuran maksimum hero */
+  max-width: 300px;   /* ukuran maksimum hero */
   height: auto;
   border-radius: 20px;
   box-shadow: 0 10px 30px rgba(232,174,183,0.4);
@@ -75,6 +75,7 @@ body {
 /* Autocomplete */
 #searchSuggestions .list-group-item { cursor: pointer; background-color: white; color: black; }
 #searchSuggestions .list-group-item:hover { background-color: var(--pink); color: white; }
+
 
 
 
